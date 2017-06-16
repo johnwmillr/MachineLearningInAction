@@ -1,0 +1,13 @@
+# Directories
+SourceMaterial/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS X
+*.DS_Store
+
+# Media
+*.pdf
+*.jpg
+*.png
