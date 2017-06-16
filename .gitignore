@@ -1,4 +1,4 @@
-# Directories
+# Data and example code
 SourceMaterial/
 
 # Jupyter
@@ -8,6 +8,7 @@ SourceMaterial/
 *.DS_Store
 
 # Media
+Media/
 *.pdf
 *.jpg
 *.png
